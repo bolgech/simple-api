@@ -35,6 +35,7 @@ limit, offset
 
 > DELETE /api/v1/tasks/:taskId - delete task with Id
 
+> PUT /api/v1/tasks/:taskId/status - change status
 
 
 
